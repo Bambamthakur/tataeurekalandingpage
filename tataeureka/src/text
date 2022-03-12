@@ -1,0 +1,15 @@
+.Registration{
+  margin-top: 70px;
+  width: fit-content;
+  height: 400px;
+  padding: 50px;
+  justify-content: center;
+  background-color: rgb(245, 245, 252);
+  border-radius: 15px;
+  
+}
+
+
+.App{
+    background-image: url('../public/fslarge3.jpg');
+  }
